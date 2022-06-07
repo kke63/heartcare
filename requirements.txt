@@ -6,8 +6,6 @@ matplotlib
 sklearn
 preprocessing
 joblib
-model_selection
-linear_model
 metrics
 neighbors
 tree
