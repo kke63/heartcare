@@ -10,7 +10,8 @@ metrics
 neighbors
 tree
 ensemble
-xgboost
+xgboost==1.0.2
 tensorflow
 keras
 layers
+numba==0.48.0
