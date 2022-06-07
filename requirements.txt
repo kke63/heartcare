@@ -1,8 +1,9 @@
+pip3 install --upgrade pip --user
 streamlit==1.10.0
 numpy
 pandas
 matplotlib
-pyplot==22.1.2
+pyplot
 sklearn
 preprocessing
 joblib
