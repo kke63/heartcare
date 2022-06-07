@@ -1,17 +1,22 @@
-pip install streamlit
 streamlit==1.10.0
-joblib
-matplotlib
 numpy
 pandas
+matplotlib
 pyplot
-plotly
-ply
-ptyprocess
-seaborn
-streamlit
-scikit-learn
 sklearn
+preprocessing
+joblib
+model_selection
 linear_model
-streamlit
+metrics
+neighbors
+tree
+ensemble
+xgboost
+tensorflow
+keras
+layers
+models
+callbacks
+pyngrok
 
