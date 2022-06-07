@@ -15,15 +15,3 @@ tensorflow
 keras
 layers
 models
-callbacks
-pyngrok
-plotly
-ply
-ptyprocess
-seaborn
-streamlit
-scikit-learn
-sklearn
-linear_model
-streamlit
-
