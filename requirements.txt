@@ -3,7 +3,6 @@ streamlit==1.10.0
 numpy
 pandas
 matplotlib
-pyplot
 sklearn
 preprocessing
 joblib
